@@ -8,7 +8,7 @@ export const projects = [
       "https://hv8zuk1grpspivwy.public.blob.vercel-storage.com/iPhone%2016%20Pro-ADbtyOdSKaqHz3RJ0ytPHtZnx7r1MU.png",
     tags: ["UI/UX Design", "Development", "Branding"],
     link: "#",
-    liveLink: "https://tannlaeknatjonustan.vercel.app/",
+    liveLink: "https://tannlaeknathjonustan.is/is",
     client: "Tannlæknaþjónustan",
     timeline: "Ongoing",
     role: "Lead Designer & Project Coordinator",
